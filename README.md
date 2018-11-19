@@ -1,4 +1,4 @@
-# HEVD-ArbitraryOverwritex86
+# HEVD-UseAfterFreex86
 Exploit code for the Use After Free vulnerability on HackSysExtremeVulnerableDriver
 
 
@@ -9,4 +9,5 @@ Exploit code for the Use After Free vulnerability on HackSysExtremeVulnerableDri
 **Thanks to:**
   
   HackSysTeam (Twitter: @HackSysTeam) for the vulnerable driver and explanation.
-  tekwizz123  (Twitter: @tekwizz123) for privilege escalation shellcode
+
+  tekwizz123  (Twitter: @tekwizz123) for privilege escalation shellcode.
